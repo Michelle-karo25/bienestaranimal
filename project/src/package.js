@@ -1,0 +1,12 @@
+on
+
+{
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-scripts": "^5.0.0",
+    "lucide-react": "latest"
+  },
+  "main": "/index.js",
+  "devDependencies": {}
+}

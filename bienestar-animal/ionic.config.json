@@ -1,0 +1,7 @@
+{
+  "name": "bienestar animal",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
